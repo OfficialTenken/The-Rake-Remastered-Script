@@ -1,4 +1,4 @@
--- made with <3 by Overclocked Team
+-- made with <3 by NoxWare Team
 local p,x,n_,q,oa,Ua=bit32.bxor,type,getmetatable,pairs
 local N=(getfenv())
 local Ob,hb,s_=(string.char),(string.byte),(bit32 .bxor)
